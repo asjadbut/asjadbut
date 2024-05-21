@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asjadbut
-- 👀 I’m a Web Application Developer
-- 🌱 My Skills include React JS | Javascript | CSS | HTML | Bootstrap | Firebase Authentication | SQL
+- 👀 I’m a Junior Software Developer
+- 🌱 My Skills include React JS | Javascript | CSS | HTML | Bootstrap | SQL
 - 💞️ I’m looking to collaborate on projects that create positive impact in the society
 - 📫 You can reach me at asjadbutt@pm.me
 
